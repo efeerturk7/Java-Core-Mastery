@@ -9,7 +9,7 @@ I am documenting my progress daily. Below is the structured roadmap of topics co
 | Day | Status | Category | Key Topics Covered |
 | :--- | :---: | :--- | :--- |
 | **Day 1** | ✅ | **01-Basics** | Variables, Loops, Arrays, Control Structures |
-| **Day 2** | ⏳ | **02-Methods-and-OOP** | Classes, Objects, Methods, Encapsulation |
+| **Day 2** | ✅ | **02-Methods-and-OOP** | Classes, Objects, Methods, Encapsulation |
 | **Day 3** | ⏳ | **03-Advanced-OOP** | Inheritance, Polymorphism, Abstraction, Interfaces |
 | **Day 4** | ⏳ | **04-Collections** | List, Set, Map, Generics, Comparator |
 | **Day 5** | ⏳ | **05-Functional** | Lambda Expressions, Stream API, Method Refs |
